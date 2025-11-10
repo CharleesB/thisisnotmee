@@ -1,7 +1,7 @@
 ## Bienvenu 👋
 
 
-# Ces quelques projets ont été fait durant ma première année à 42 ou j'ai découvert le monde du code...
+#### Ces quelques projets ont été fait durant ma première année à 42 ou j'ai découvert le monde du code...
 <!--
 **thisisnotmee/thisisnotmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
